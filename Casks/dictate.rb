@@ -1,6 +1,6 @@
 cask "dictate" do
-  version "1.5.5"
-  sha256 "ce5943f6a4bce6fca4de6d1d05744388259c7ea9f569a365b3d2e08d15aa1f3c"
+  version "1.5.7"
+  sha256 "63be75963bda42aba6ea36fa3780af59ba43495bb8b4a4133dfb39af67b56e87"
 
   url "https://github.com/mcolfax/dictate/releases/download/v#{version}/Dictate.dmg"
   name "Dictate"
